@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.isi.ms2.config.\
+    SqlTestContainersSpringContextCustomizerFactory
